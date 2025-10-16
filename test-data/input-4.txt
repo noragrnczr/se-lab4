@@ -1,0 +1,2 @@
+# Create a ship with stocked torpedo stores fail's index should be a number between 0 and 1
+GT4500,10,3,10,3
